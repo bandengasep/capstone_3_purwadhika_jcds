@@ -2,7 +2,7 @@ streamlit
 joblib
 numpy
 imblearn
-category_encoders
 sklearn
 xgboost
 pickle
+pandas
