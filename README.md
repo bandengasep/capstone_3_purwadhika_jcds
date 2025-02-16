@@ -8,3 +8,5 @@ Currently, very few hotel implement Machine-Learning classification model to pre
 Using various python machine learning packages, extensive data preparation and analysis are conducted to build a machine learning model capable of predicting booking cancellations. Eventually, after extensive testing, XGBoost Classifier was selected due to its high prediction accuracy over the other classification algorithms. Key factors influencing cancellation rates included deposit type, total special requests, and market segment. The XGBoost Classifier is further enhanced through hyperparameter tuning and probability adjustment.
 
 By adopting this predictive model, hotel management can enhance operational efficiency, implement proactive customer engagement strategies, and improve overall revenue management. This data-driven approach enables hotels to anticipate booking trends, reduce last-minute cancellations, and optimize resource allocation, ultimately leading to increased profitability and improved customer experience.
+
+Streamlit app deployment: https://booking-cancellation-capstone3purwadhikajcds2704009.streamlit.app/
