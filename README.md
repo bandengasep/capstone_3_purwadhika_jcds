@@ -1,4 +1,6 @@
 # Executive Summary
+![image](https://github.com/user-attachments/assets/aca2742b-9074-48b8-ae62-19c2822a91aa)
+
 The hospitality industry is highly competitive, with hotels continuously striving to optimize occupancy rates and maximize revenue. A critical challenge faced by hotel management is predicting booking demand and cancellations, which directly impact revenue forecasting, inventory management, and customer satisfaction. Effective demand prediction allows hotels to implement strategic pricing, optimize room allocation, and enhance customer retention.
 
 Currently, very few hotel implement Machine-Learning classification model to predict booking cancellatioin. To address this issue, historical booking data is leveraged, containing key customer and booking attributes, including market segment, previous cancellations, booking changes, deposit type, and special requests.
