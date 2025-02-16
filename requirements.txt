@@ -2,7 +2,5 @@ streamlit
 joblib
 numpy
 imblearn
-sklearn
+category_encoders
 xgboost
-pickle
-pandas
