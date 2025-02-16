@@ -3,7 +3,7 @@
 
 The hospitality industry is highly competitive, with hotels continuously striving to optimize occupancy rates and maximize revenue. A critical challenge faced by hotel management is predicting booking demand and cancellations, which directly impact revenue forecasting, inventory management, and customer satisfaction. Effective demand prediction allows hotels to implement strategic pricing, optimize room allocation, and enhance customer retention.
 
-Currently, very few hotel implement Machine-Learning classification model to predict booking cancellatioin. To address this issue, historical booking data is leveraged, containing key customer and booking attributes, including market segment, previous cancellations, booking changes, deposit type, and special requests.
+Currently, very few hotel implement Machine-Learning classification model to predict booking cancellation. To address this issue, historical booking data is leveraged, containing key customer and booking attributes, including market segment, previous cancellations, booking changes, deposit type, and special requests.
 
 Using various python machine learning packages, extensive data preparation and analysis are conducted to build a machine learning model capable of predicting booking cancellations. Eventually, after extensive testing, XGBoost Classifier was selected due to its high prediction accuracy over the other classification algorithms. Key factors influencing cancellation rates included deposit type, total special requests, and market segment. The XGBoost Classifier is further enhanced through hyperparameter tuning and probability adjustment.
 
