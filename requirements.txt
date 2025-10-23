@@ -4,3 +4,5 @@ numpy
 imblearn
 category_encoders
 xgboost
+pandas
+scikit-learn==1.5.2
